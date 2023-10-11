@@ -1,0 +1,31 @@
+Array
+(
+    [checkoutMode] => WEBSITE
+    [merchant] => TESTNITEST2
+    [result] => SUCCESS
+    [session.id] => SESSION0002014365081J02879851I4
+    [session.updateStatus] => SUCCESS
+    [session.version] => 0eff595101
+    [successIndicator] => 9d3078db20764edb
+)
+\nArray
+(
+    [checkoutMode] => WEBSITE
+    [merchant] => TESTNITEST2
+    [result] => SUCCESS
+    [session.id] => SESSION0002472834462G24270555J7
+    [session.updateStatus] => SUCCESS
+    [session.version] => 9e3ef1ef01
+    [successIndicator] => 49202ed413124e45
+)
+\nArray
+(
+    [checkoutMode] => WEBSITE
+    [merchant] => TESTNITEST2
+    [result] => SUCCESS
+    [session.id] => SESSION0002768476624E38901308E6
+    [session.updateStatus] => SUCCESS
+    [session.version] => bd260c8201
+    [successIndicator] => 69dd01fec9dd4e10
+)
+\n
